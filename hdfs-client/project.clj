@@ -4,4 +4,5 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
+                 [org.apache.hadoop/hadoop-common "2.7.3"]
                  [org.apache.hadoop/hadoop-hdfs "2.7.3"]])
